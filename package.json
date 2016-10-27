@@ -1,0 +1,19 @@
+{
+  "name": "nodejsnotes",
+  "version": "1.0.0",
+  "description": "Contains NodeJs Dada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalithalnt/NodeJSNotes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalithalnt/NodeJSNotes/issues"
+  },
+  "homepage": "https://github.com/lalithalnt/NodeJSNotes#readme"
+}
